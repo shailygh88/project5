@@ -1,0 +1,18 @@
+.first{
+    height: 250;
+    background-color: lightgray;
+}
+.second{
+    height: 250;
+    background-color: rgb(146, 96, 96);
+}
+.third{
+    height: 250;
+    background-color: rgb(120, 138, 157);
+}
+.fourth{
+    background-color: rgb(87, 101, 98);
+}
+.fifth{
+    background-color: rgb(162, 194, 254);
+}
